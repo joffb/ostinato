@@ -1,0 +1,12 @@
+*.o
+*.sms
+*.sym
+*.ihx
+*.lk
+*.map
+*.noi
+*.lst
+*.rel
+SMSlib.h
+SMSlib.lib
+crt0_sms.rel

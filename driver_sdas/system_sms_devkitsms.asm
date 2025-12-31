@@ -1,0 +1,3 @@
+
+OSTINATO_DEVKITSMS .equ 1
+.globl _SMS_Port3EBIOSvalue

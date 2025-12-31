@@ -1,0 +1,1 @@
+sdasz80 -o lib/ostinato.rel driver_sdas/system_sms_devkitsms.asm driver_sdas/ostinato.asm

@@ -1,0 +1,5 @@
+*.o
+*.sms
+*.sym
+test.asm
+test_ym.asm
